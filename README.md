@@ -1,5 +1,5 @@
 # 🎬 Netflix Content Analysis — Power BI
-<img width="1366" height="768" alt="Netflix_Screenshot" src="https://github.com/user-attachments/assets/70e9b160-446e-46ed-b6e7-bee7e0f22148" />
+<img width="786" height="496" alt="image" src="https://github.com/user-attachments/assets/6de8bb82-476e-4617-93d5-fb091ce0ceef" />
 
 
 ## 📊 Présentation
